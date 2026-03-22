@@ -246,12 +246,6 @@ E 5 40 0 4 3
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a **MIT License** — veja o ficheiro [LICENSE](LICENSE) para detalhes.
-
----
-
 ## 👤 Autor
 
 - **Gonçalo Alegria** — a22408663 — [@goncaloalegria](https://github.com/goncaloalegria)
